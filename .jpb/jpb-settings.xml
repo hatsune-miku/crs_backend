@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseMigrationSettings">
+    <database-infos>
+      <database-info>
+        <option name="enabled" value="true" />
+        <dbms-id>mysql</dbms-id>
+        <mapping-types>
+          <mapping-type sql-type-parameter="Nothing">
+            <java-class>java.util.Date</java-class>
+            <sql-type>datetime</sql-type>
+          </mapping-type>
+        </mapping-types>
+      </database-info>
+    </database-infos>
+  </component>
+</project>
